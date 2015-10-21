@@ -1,0 +1,13 @@
+com\gslab\service\Service.class
+com\gslab\controller\HelloController.class
+com\gslab\model\ContentVideo.class
+com\gslab\vo\ContentVideoProgressVo.class
+com\gslab\amqp\Sender.class
+com\gslab\dao\impl\DAOImpl.class
+com\gslab\dao\DAO.class
+com\gslab\amqp\ListenerContainer.class
+com\gslab\vo\ContentVideoVo.class
+com\gslab\amqp\MessageListenerAmqp.class
+com\gslab\service\impl\ServiceImpl.class
+com\gslab\model\ContentVideoProgress.class
+com\gslab\util\HibernateUtil.class
